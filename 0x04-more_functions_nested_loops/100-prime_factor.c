@@ -2,7 +2,8 @@
 /**
 * main - prints largest prime factor.
 * Return: Always 0.
-*/int main(void)
+*/
+int main(void)
 {
 long int n, fp;
 n = 612852475143;
