@@ -15,4 +15,4 @@ j = (len + 1) / 2;
 for (i = j; i < len; i++)
 _putchar(str[i]);
 _putchar('\n');
- }
+}
